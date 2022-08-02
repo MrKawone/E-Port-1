@@ -28,9 +28,9 @@ p {
 }
 a {
     text-decoration: none;
-    position: absolute;
+    position: relative;
     transition: opacity 300ms ease;
-   
+    
 }
 
 i:hover {
@@ -111,6 +111,7 @@ padding: 0 12px;
 
 .nav__link--list {
     display: flex;
+  
 }
 
 .nav__link--anchor{
